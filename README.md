@@ -3,7 +3,7 @@
 Static HTML/CSS/vanilla JS. No build step, no framework, no dependencies —
 deploys to Vercel as-is. No React/Next.js/Supabase exists yet; this README
 also serves as the audit trail for the big Aug 2026 restructure.
-
+updated
 ## Architecture (single source of truth)
 
 - **`js/data.js`** — the only place meals, packages, and business info live.
